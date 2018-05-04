@@ -41,7 +41,7 @@
       <string>Allow the app to know your location in orther to determine your nearest PBX number to use</string>
     </config-file>
     <config-file target="*-Info.plist" parent="NSContactsUsageDescription">
-      <string>Allow the app to get your contacts in orther to call them through Konnektcaller</string>
+      <string>Allow the app to access your contacts in orther to list them and call them through Konnektcaller's PBX</string>
     </config-file>
     <header-file src="src/ios/Echo.h" />
 
